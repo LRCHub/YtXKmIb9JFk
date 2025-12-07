@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I NEED YOUR LOVE",
+  "base_artist": "DAVE SIMON",
+  "createdAt": "2025-12-07T03:05:00.209372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I need your Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/01_I_need_your_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "China",
+      "has_synced": true,
+      "path": "select/02_I_Need_Your_Love_China.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Nina",
+      "has_synced": true,
+      "path": "select/03_I_Need_Your_Love_Nina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "i need your love",
+      "artist": "beverly",
+      "has_synced": true,
+      "path": "select/04_i_need_your_love_beverly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Rapture",
+      "has_synced": true,
+      "path": "select/05_I_Need_Your_Love_Rapture.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Almadrava",
+      "has_synced": false,
+      "path": "select/06_I_Need_Your_Love_Almadrava.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/07_I_Need_Your_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Joy",
+      "has_synced": false,
+      "path": "select/08_I_Need_Your_Love_Joy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Pentatonix",
+      "has_synced": false,
+      "path": "select/09_I_Need_Your_Love_Pentatonix.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Boston",
+      "has_synced": true,
+      "path": "select/10_I_Need_Your_Love_Boston.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Diamond Head",
+      "has_synced": true,
+      "path": "select/11_I_Need_Your_Love_Diamond_Head.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "The Rapture",
+      "has_synced": true,
+      "path": "select/12_I_Need_Your_Love_The_Rapture.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/13_I_Need_Your_Love_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/14_I_Need_Your_Love_Patrice_Rushen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "i need your love",
+      "artist": "ellie goulding",
+      "has_synced": true,
+      "path": "select/15_i_need_your_love_ellie_goulding.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Need Your Love",
+      "artist": "Bloodstone",
+      "has_synced": true,
+      "path": "select/16_I_Need_Your_Love_Bloodstone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Need Your Love",
+      "artist": "Dave Simon",
+      "has_synced": false,
+      "path": "select/pl_01_I_Need_Your_Love_Dave_Simon.txt"
+    }
+  ]
+}
